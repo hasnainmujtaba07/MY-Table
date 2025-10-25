@@ -1,0 +1,123 @@
+*{
+    font-weight: 500px; 
+    border-radius: 4px; 
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    /* height: 100px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 2px solid black; */
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(17, 24, 39);
+    color: white;
+    /* border-radius: 10px ; */
+}
+
+img{
+    height: 80px;
+    margin-left: -100px;
+    margin-top: 5px;
+}
+
+h2 {
+    text-align: center;
+    padding: 0px 60px;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(200, 200, 200);
+}
+
+td {
+    background-color: rgb(203, 85, 255);
+    height: 20px; 
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+span {
+    display: block;
+    font-size: 8px;
+    font-weight: normal;
+}
+
+.big {
+    font-size: 20px;
+}
+
+.darkyellow {
+    background-color: rgb(154, 107, 35);
+}
+
+.red{
+    background-color: rgb(245, 59, 81);
+}
+.white{
+    background-color: white;
+}
+.yellow{
+    background-color: rgb(246, 173, 10);
+}
+.skyblue{
+    background-color: rgb(1, 178, 252);
+}
+.blue{
+    background-color: rgb(226, 120, 20)
+}
+.green{
+    background-color: rgb(20, 202, 196);
+}
+.darkblue{
+    background-color: rgb(52, 146, 3);
+}
+.lightgreen{
+    background-color: rgb(145, 202, 18);
+}
+.purple{
+    background-color: rgb(143, 51, 223);
+}
+.black{
+    background-color: rgb(234, 76, 60);
+}
+.lotus{
+    background-color: rgb(199, 88, 13);
+}
+
+.my-table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    width: 100%;
+    background-color: white;
+
+}
+
+.my-table table {
+  border-collapse: separate !important;
+  border-spacing: 4px !important; 
+  background-color: white;
+}
+
+
+footer{
+    background-color: rgb(17, 24, 39);
+    text-align: center;
+    font-size: 15px;
+    padding: 25px;
+    color: white;
+    /* height: 30px; */
+    /* border-radius: 2px; */
+}
+
+
