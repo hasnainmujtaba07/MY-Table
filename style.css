@@ -3,6 +3,7 @@
     border-radius: 4px; 
     margin: 0;
     padding: 0;
+    text-transform: capitalize;
 }
 
 .navbar{
